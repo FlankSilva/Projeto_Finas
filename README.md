@@ -9,4 +9,6 @@
     <li>Bootstrap 4</li>
 </ul>
 
+<img src="./img/index_pagina.JPG" alt="">
+
 <p>Para utilizar, basta clonar esse repositório e abrir o arquivo INDEX.HRML</p>
